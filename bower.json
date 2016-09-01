@@ -1,0 +1,21 @@
+{
+  "name": "YourCustomProject",
+  "authors": [
+    "Zakaria Amarifi <amarifi.zakaria@gmail.com>"
+  ],
+  "description": "Get Bootstrap SASS with jQuery dependencies",
+  "main": "bower.json",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6"
+  }
+}
